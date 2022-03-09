@@ -1,5 +1,13 @@
-import Debug "mo:base/Debug";
-import Array "mo:base/Array";
+import Nat8 "mo:base/Nat8";
+import Nat32 "mo:base/Nat32";
+import Text "mo:base/Text";
+import Nat "mo:base/Nat";
+import Char "mo:base/Char";
+import Iter  "mo:base/Iter";
+import Array  "mo:base/Array";
+import Debug  "mo:base/Debug";
+import Int "mo:base/Int";
+import Option "mo:base/Option";
 actor {
     
   //Challenge 1
